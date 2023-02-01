@@ -1,6 +1,6 @@
 Hello everyone,You can access following projects for prediction as follows
 
-##**1)Regression_Model_to_Predict_Cement_Compressive_Strength_Project:**##
+#**1)Regression_Model_to_Predict_Cement_Compressive_Strength_Project:**
 
   To build a regression model to predict the compressive strength of cement, you can follow these steps:
   
@@ -12,7 +12,7 @@ Hello everyone,You can access following projects for prediction as follows
 6)If necessary, tune the model's hyperparameters to improve its performance.
 7)Finally, use the trained model to make predictions on new, unseen data.
 
-##**2)Classification_Model_to_Identify_Multiple_Disease_Project:**##
+#**2)Classification_Model_to_Identify_Multiple_Disease_Project:**
 
   To build a classification model to identify multiple diseases, you can follow these steps:
 
@@ -24,7 +24,7 @@ Hello everyone,You can access following projects for prediction as follows
 6)If necessary, tune the model's hyperparameters to improve its performance.
 7)Finally, use the trained model to make predictions on new, unseen data to identify which disease a patient may have.
 
-##**3)Classification_Model_to_Identify_Employee_Attrition_Project:**##
+#**3)Classification_Model_to_Identify_Employee_Attrition_Project:**
 
   To build a classification model to identify employee attrition, you can follow these steps:
 
