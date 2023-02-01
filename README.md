@@ -35,4 +35,4 @@ Hello everyone,You can access following projects for prediction as follows
 5)Evaluate the model's performance on the test data using metrics such as accuracy, precision, recall, and F1-score.
 6)If necessary, tune the model's hyperparameters to improve its performance.
 7)Finally, use the trained model to make predictions on new, unseen data to determine which employees are at risk of attrition.
-
+ 
